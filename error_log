@@ -1,0 +1,4 @@
+[31-Mar-2017 09:15:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) in /home/uugdqyth/public_html/application/models/Murid_model.php on line 141
+[05-Apr-2017 07:27:18 UTC] PHP Fatal error:  Cannot redeclare Guru_model::get_data_kursus() in /home/uugdqyth/public_html/application/models/Guru_model.php on line 597
+[06-Apr-2017 08:46:08 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/uugdqyth/public_html/application/models/Guru_model.php on line 626
+[06-Apr-2017 09:08:43 UTC] PHP Fatal error:  Call to a member function get_filter() on null in /home/uugdqyth/public_html/application/controllers/Guru.php on line 102
